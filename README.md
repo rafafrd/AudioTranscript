@@ -33,7 +33,8 @@ Este projeto utiliza **inteligência artificial** para **transcrever áudios em 
 ```
 git clone https://github.com/seu-usuario/seu-repositorio.git
 ```
-e entre no diretório
+Em seguida entre no diretório
+
 2. Crie um ambiente virtual (opcional, mas recomendado):
 ```
 python -m venv venv
