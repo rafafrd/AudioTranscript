@@ -32,8 +32,8 @@ Este projeto utiliza **inteligência artificial** para **transcrever áudios em 
 1. Clone o repositório:
 ```
 git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
 ```
+e entre no diretório
 2. Crie um ambiente virtual (opcional, mas recomendado):
 ```
 python -m venv venv
