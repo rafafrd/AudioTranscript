@@ -30,18 +30,18 @@ Este projeto utiliza **inteligência artificial** para **transcrever áudios em 
 ## 🧩 Instalação
 
 1. Clone o repositório:
-
+```
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
-
+```
 2. Crie um ambiente virtual (opcional, mas recomendado):
-
+```
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
-
+```
 3. Instale as dependências:
-pip install -r requirements.txt
+``` pip install -r requirements.txt ```
 
 Baixe o modelo Vosk de reconhecimento de fala (Português):
 
@@ -51,10 +51,10 @@ Recomendo o modelo: vosk-model-small-pt-0.3
 Descompacte a pasta e renomeie para model, colocando-a na raiz do projeto.
 
 5. Crie um arquivo .env na raiz com sua chave da API Gemini:
-
+```
 GEMINI_API_KEY=sua_chave_aqui
-
+```
 # Execute com:
-
+```
 streamlit run app.py
-
+```
