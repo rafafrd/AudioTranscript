@@ -53,8 +53,8 @@ Descompacte a pasta e renomeie para model, colocando-a na raiz do projeto.
 5. Crie um arquivo .env na raiz com sua chave da API Gemini:
 
 GEMINI_API_KEY=sua_chave_aqui
----
-Execute com:
+
+# Execute com:
 
 streamlit run app.py
 
